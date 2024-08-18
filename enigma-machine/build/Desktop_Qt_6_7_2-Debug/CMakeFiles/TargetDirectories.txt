@@ -1,0 +1,9 @@
+/home/cjs1_0/enigma-machine/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/enigma-machine.dir
+/home/cjs1_0/enigma-machine/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/edit_cache.dir
+/home/cjs1_0/enigma-machine/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/cjs1_0/enigma-machine/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/list_install_components.dir
+/home/cjs1_0/enigma-machine/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install.dir
+/home/cjs1_0/enigma-machine/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/local.dir
+/home/cjs1_0/enigma-machine/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/strip.dir
+/home/cjs1_0/enigma-machine/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/enigma-machine_autogen_timestamp_deps.dir
+/home/cjs1_0/enigma-machine/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/enigma-machine_autogen.dir
